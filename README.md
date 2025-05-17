@@ -21,12 +21,20 @@ Programming and uses the Tkinter module for the graphical interface.
 - Encapsulation
 - 📦 In-memory data structures (lists, dictionaries)
 
+# PokeAPI Consumption (Python)
+this is desktop project with graphical interface for consumption of
+API developed in Python. It applies the fundamentals steps for work with APIs
+and uses the Tkinter module for graphical interface.
 
+## Features
+- Requests to the API
+- Display the information in a basic UI
 
-
-
-
-
+## technologies and tools
+- 🐍 Python 3.x
+- 🪟 Tkinter (graphical interface)
+- API consumption
+  
 
 # Contact Management (Python)
 
